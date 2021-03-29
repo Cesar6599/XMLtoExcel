@@ -1,0 +1,30 @@
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport\XmlExcelExport\bin\Debug\XmlExcelExport.exe.config
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport\XmlExcelExport\bin\Debug\XmlExcelExport.exe
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport\XmlExcelExport\bin\Debug\XmlExcelExport.pdb
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport\XmlExcelExport\obj\Debug\XmlExcelExport.csprojAssemblyReference.cache
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport\XmlExcelExport\obj\Debug\MainWindow.g.cs
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport\XmlExcelExport\obj\Debug\App.g.cs
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport\XmlExcelExport\obj\Debug\XmlExcelExport_MarkupCompile.cache
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport\XmlExcelExport\obj\Debug\XmlExcelExport_MarkupCompile.lref
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport\XmlExcelExport\obj\Debug\MainWindow.baml
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport\XmlExcelExport\obj\Debug\XmlExcelExport.g.resources
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport\XmlExcelExport\obj\Debug\XmlExcelExport.Properties.Resources.resources
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport\XmlExcelExport\obj\Debug\XmlExcelExport.csproj.GenerateResource.cache
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport\XmlExcelExport\obj\Debug\XmlExcelExport.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport\XmlExcelExport\obj\Debug\XmlExcelExport.exe
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport\XmlExcelExport\obj\Debug\XmlExcelExport.pdb
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport select file\XmlExcelExport\bin\Debug\XmlExcelExport.exe.config
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport select file\XmlExcelExport\bin\Debug\XmlExcelExport.exe
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport select file\XmlExcelExport\bin\Debug\XmlExcelExport.pdb
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport select file\XmlExcelExport\obj\Debug\XmlExcelExport.csprojAssemblyReference.cache
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport select file\XmlExcelExport\obj\Debug\MainWindow.g.cs
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport select file\XmlExcelExport\obj\Debug\App.g.cs
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport select file\XmlExcelExport\obj\Debug\XmlExcelExport_MarkupCompile.cache
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport select file\XmlExcelExport\obj\Debug\XmlExcelExport_MarkupCompile.lref
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport select file\XmlExcelExport\obj\Debug\MainWindow.baml
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport select file\XmlExcelExport\obj\Debug\XmlExcelExport.g.resources
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport select file\XmlExcelExport\obj\Debug\XmlExcelExport.Properties.Resources.resources
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport select file\XmlExcelExport\obj\Debug\XmlExcelExport.csproj.GenerateResource.cache
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport select file\XmlExcelExport\obj\Debug\XmlExcelExport.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport select file\XmlExcelExport\obj\Debug\XmlExcelExport.exe
+C:\Users\cesar\Desktop\facturacion arturo\XmlExcelExport select file\XmlExcelExport\obj\Debug\XmlExcelExport.pdb
